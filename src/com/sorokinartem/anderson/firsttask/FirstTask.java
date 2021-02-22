@@ -11,6 +11,7 @@ public class FirstTask {
         int number = Integer.parseInt(reader.readLine());
         if (number>7) {
             System.out.println("Привет");
+            
         }
 
     }
